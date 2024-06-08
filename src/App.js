@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <h1>Web page to test CSR in SEO</h1>
-      <ComponentsBlock componentsQty={500} />
+      <ComponentsBlock componentsQty={1000} />
     </div>
   );
 }
